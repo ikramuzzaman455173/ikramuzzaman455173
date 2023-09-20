@@ -4,7 +4,9 @@
 
 <!--![Md:Jakaria Banner- 1](https://user-images.githubusercontent.com/76690419/143735787-4425d946-b829-46eb-bd97-c68b76ae2a9e.png) -->
 
-![Md-Jakaria Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+<!-- ![Md-Jakaria Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)-->
+
+![Black Minimalist Content Creator LinkedIn Banner](https://github.com/ikramuzzaman455173/ikramuzzaman455173/assets/106922916/6b9de9ec-f014-4212-b070-b00d27fd9d29)
 
 ### 👩‍💻 &nbsp; A Few Thicks About Me :) 
 
