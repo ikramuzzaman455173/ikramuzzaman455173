@@ -16,7 +16,7 @@
 ✍️ &nbsp;In my free time, I Am Watching Cartoons and Playing Cricket Game.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at jakaria455173@gmail.com! I'll try to respond as soon as I can.\
-📑 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1L4_JqbSVwgklzSSB3TESyKOVPk7GBa1B/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📑 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1jWnhBszJbWXiQxNix0uhpUFL1rCfbdjV/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
