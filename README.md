@@ -23,12 +23,13 @@
 ### 🤝 &nbsp; Connect with Me Around The Web :)
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mr:Cooder" height="30" width="40" /></a>&emsp;
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mr:Cooder" height="30" width="40" /></a>&emsp;
+<a href="https://www.linkedin.com/in/ikramuzzaman455173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mr:Cooder" height="30" width="40" /></a>&emsp;
+<a href="https://www.youtube.com/@ikramuzzaman4551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mr:Cooder" height="30" width="40" /></a>&emsp;
+<a href="https://www.facebook.com/jakaria455173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mr:Cooder height="30" width="40" /></a>&emsp;
+<!--
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mr:Cooder" height="30" width="40" /></a>&emsp;
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mr:Cooder height="30" width="40" /></a>&emsp;
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr:Cooder" height="30" width="40" /></a>&emsp;
-
+-->
 </p>
 
 ***
