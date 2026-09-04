@@ -1,122 +1,308 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b623b6ef-0dd6-4ea4-8654-f7ab569bcfd1" alt="Ikramuzzaman Banner" width="100%" />
-</div>
 
+<img src="https://github.com/user-attachments/assets/b623b6ef-0dd6-4ea4-8654-f7ab569bcfd1" alt="Ikramuzzaman — Full Stack Software Developer" width="100%" />
 
-<div align="center">
-  <h1>Hi, I'm Ikramuzzaman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
+<br/>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D2D3&center=true&vCenter=true&width=760&lines=Full+Stack+Software+Developer;Building+Business+Systems+%26+Internal+Tools;MERN+%7C+Next.js+%7C+Node.js+%7C+TypeScript;2.5%2B+Years+of+Professional+Experience" alt="Typing SVG" />
-  </p>
+<h1>Hi, I'm Ikramuzzaman 👋</h1>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ikramuzzaman455173/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:jakaria455173@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/ikramuzzaman455173"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+<h3>Full Stack Software Developer</h3>
 
-  <p>
-    Full Stack Developer with <strong>2.5+ years of professional experience</strong> building web apps,
-    office systems, and tools that help people work better. I focus on <strong>simple code</strong>,
-    <strong>easy maintenance</strong>, and <strong>real results</strong>.
-  </p>
-</div>
+<p>
+Building <strong>scalable web applications, business systems, internal tools, and AI-powered solutions</strong>
+with a strong focus on clean architecture, maintainability, and real-world impact.
+</p>
 
----
+<br/>
 
-### About Me
-- I build end-to-end applications using **React, Next.js, Node.js, Express, TypeScript, MongoDB, MySQL, and PostgreSQL**.
-- I work on **important office systems**, including ERP work and document management.
-- I use **AI tools** to work faster while keeping code neat and ready to use.
-- Currently building a **Document Management System (DMS)** for safe document storage, quick search, and easy access for teams.
-- **Professional experience:** 2.5+ years | **Learning journey:** 5+ years in software development
+<a href="https://ikramuzzaman.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/ikramuzzaman455173/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:jakaria455173@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/ikramuzzaman455173">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
----
+<br/><br/>
 
-### Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00D2D3&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Developer;Building+Business+Systems+%26+Internal+Tools;MERN+%7C+Next.js+%7C+Node.js+%7C+TypeScript;2.5%2B+Years+of+Professional+Experience" alt="Typing introduction" />
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="20%">
-        <strong>Frontend</strong><br/>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,mui" alt="Frontend" />
-      </td>
-      <td valign="top" width="20%">
-        <strong>Backend</strong><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,js,nestjs" alt="Backend" />
-      </td>
-      <td valign="top" width="20%">
-        <strong>Database</strong><br/>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase,firebase" alt="Database" />
-      </td>
-      <td valign="top" width="20%">
-        <strong>Workflow & AI</strong><br/>
-        <img src="https://skillicons.dev/icons?i=githubactions,vscode,visualstudio,py" alt="Workflow and AI" />
-      </td>
-      <td valign="top" width="20%">
-        <strong>Tools</strong><br/>
-        <img src="https://skillicons.dev/icons?i=postman,docker,aws,git,linux,vercel,figma" alt="Tools" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-### Professional Work Highlights
+## About
 
-#### Advanced ERP Platform
-- Built and continue to improve an ERP platform for **inventory, staff work, and money-related tasks**.
-- Helped with **system design, database setup, backend APIs, frontend parts, and regular updates**.
-- **Results:** Reduced manual paperwork by **70%** | Improved data tracking speed by **2x** | Increased team productivity by **40%**
-- **Tech:** MERN stack built to stay fast, stable, and easy to update.
+I'm a **Full Stack Software Developer with 2.5+ years of professional experience**, focused on building reliable software that solves real business problems.
 
-#### Document Management System (DMS)
-- **Currently in development** – a safe internal system for storing, organizing, and managing documents.
-- **Main focus:** Clear storage, fast search, user-based access, and smooth document handling.
-- **Expected outcome:** Cut document finding time by **80%** and make teamwork easier.
-- **Tech:** Next.js, Node.js, PostgreSQL with a fast file handling setup.
+My work spans **full-stack web applications, ERP systems, internal platforms, document management, automation, and AI-assisted development**.
 
-#### Key Technical Achievements
-- Built a **modular backend** that can grow with the project
-- Created **reusable UI parts** that saved **35%** development time
-- Added **live data updates** using WebSockets for team work
-- Improved database queries to make API responses **60% faster**
+I care about the things that make software last:
 
----
+> **Simple architecture · Clean code · Well-designed data · Maintainability · Practical engineering**
 
-### GitHub Activity & Work
+### Currently
 
-<div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&fontFamily=&preferLogin=false">
-    <img alt="ikramuzzaman455173's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ikramuzzaman455173?cardType=level&fontFamily=&preferLogin=false" />
-  </a>
-</div>
+* 🏢 Independently developing and maintaining a complete **ERP platform** for my organization.
+* 📄 Building a **Document Management System (DMS)** from the ground up.
+* 🤖 Exploring **AI agents and automation** to improve development workflows.
+* 🧠 Continuously improving my approach to architecture, backend engineering, and system design.
 
-<!-- **Pinned Projects:**
-- [Document Management System](https://github.com/ikramuzzaman455173) – Next.js + Node.js document app
-- [ERP Platform](https://github.com/ikramuzzaman455173) – MERN app for office work
-- [Portfolio](https://ikramuzzaman.vercel.app) – My projects and work samples -->
+**Professional Experience:** 2.5+ years
+**Software Development Journey:** 5+ years
 
 ---
 
-### Let's Connect
-**I'm actively looking for:**
-- Full-stack software engineering roles (Remote/On-site)
-- Backend-focused jobs with system design work
-- Opportunities to build useful office tools and work systems
-- Team projects where clean code matters
+## Engineering Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Business Systems
+
+Building software around real organizational workflows.
+
+* ERP & internal management systems
+* Inventory & operational workflows
+* Finance-related systems
+* Document management
+* Administrative tools
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Application Engineering
+
+Designing modern full-stack applications.
+
+* Scalable REST APIs
+* Modular backend architecture
+* Database-driven applications
+* Reusable UI systems
+* Real-time features
+* AI-assisted workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <a href="mailto:jakaria455173@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ikramuzzaman455173/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ikramuzzaman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/ikramuzzaman455173"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,mui" alt="Frontend technologies" />
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,nestjs" alt="Backend technologies" />
+
+<br/><br/>
+
+### Databases & Services
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase,firebase" alt="Database technologies" />
+
+<br/><br/>
+
+### Development & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,githubactions,docker,aws,linux,vercel,postman,figma,vscode" alt="Development tools" />
+
 </div>
 
+---
+
+## Professional Work
+
+### 📊 Advanced ERP Platform
+
+**Enterprise business management system**
+
+A large internal platform designed to manage organizational operations across **inventory, staff, finance, and business data**.
+
+#### My Contribution
+
+* Designed and implemented system architecture
+* Worked across frontend, backend, and database layers
+* Built and maintained core business features
+* Managed database structure and application workflows
+* Continuously improved and maintained the production system
+
+#### Business Impact
+
+* **70% reduction** in manual paperwork
+* Approximately **2× faster** data tracking
+
+#### Technology
+
+`MERN Stack` · `REST APIs` · `MongoDB` · `React` · `Node.js` · `Express`
+
+---
+
+### 📄 Document Management System
+
+**Secure internal document platform — In Active Development**
+
+A dedicated DMS being developed to improve how organizational documents are stored, organized, searched, and accessed.
+
+#### Focus Areas
+
+* Secure document storage
+* Structured file organization
+* Fast document search
+* Controlled access
+* Efficient file handling
+* Scalable architecture
+
+#### Role
+
+**Lead Developer** — responsible for the system from architecture through implementation.
+
+#### Technology
+
+`Next.js` · `Node.js` · `PostgreSQL` · `File Management`
+
+---
+
+## Selected Personal Projects
+
+Projects I build to explore new technologies, automation, real-time systems, and practical AI applications.
+
+| Project                             | Description                                                                                    | Technology                          |                                                                            |
+| :---------------------------------- | :--------------------------------------------------------------------------------------------- | :---------------------------------- | :------------------------------------------------------------------------: |
+| 🤖 **AI Task Automator**            | AI-powered automation for complex file-system operations and repetitive development workflows. | Node.js · JavaScript · OpenAI       |   [Code](https://github.com/ikramuzzaman455173/AI-Powered-Task-Automator)  |
+| 💬 **Real-Time Collaboration Tool** | Real-time multi-client synchronization using Socket.io rooms.                                  | React · Node.js · Express           | [Code](https://github.com/ikramuzzaman455173/Real-time-Collaboration-Tool) |
+| 🚀 **AI Portfolio**                 | AI-driven personalization combined with a modern portfolio experience.                         | Next.js · TypeScript · Tailwind CSS |                      [Live](https://ikramuzzaman.dev)                      |
+
+<br/>
+
 <div align="center">
-  <p><em>🚀 I build useful software that makes work easier.</em></p>
-  <p><strong>Reply time: Usually within 24 hours</strong></p>
+
+<a href="https://github.com/ikramuzzaman455173?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
+</a>
+
+</div>
+
+---
+
+## Engineering Principles
+
+I believe strong software doesn't need unnecessary complexity.
+
+### 01 — Keep It Simple
+
+Prefer straightforward solutions that are easy to understand, debug, and maintain.
+
+### 02 — Design for Change
+
+Architecture should make future changes easier—not turn every new feature into a rewrite.
+
+### 03 — Build Around the Business
+
+Technology exists to improve workflows and solve problems. The implementation should serve the domain.
+
+### 04 — Use AI Practically
+
+AI should accelerate engineering work while preserving code quality, architecture, security, and human judgment.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/ikramuzzaman455173">
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/ikramuzzaman455173?cardType=level&fontFamily=&preferLogin=false"
+    alt="Ikramuzzaman GitHub Stats"
+  />
+</a>
+
+<br/><br/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=ikramuzzaman455173"
+alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+## What I'm Working On
+
+```text
+Business Problems
+       ↓
+Understand the Workflow
+       ↓
+Design the Data
+       ↓
+Build Clear System Boundaries
+       ↓
+Develop & Integrate
+       ↓
+Optimize Where It Matters
+       ↓
+Ship, Maintain & Improve
+```
+
+Currently focused on:
+
+**Enterprise Systems** · **Document Management** · **Backend Engineering** · **AI Automation**
+
+---
+
+## Let's Connect
+
+I'm interested in opportunities involving:
+
+* Full-stack software engineering
+* Backend development & system design
+* Business applications and internal platforms
+* Developer productivity & AI automation
+* Teams that value clean, maintainable software
+
+<div align="center">
+
+<br/>
+
+<a href="mailto:jakaria455173@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/ikramuzzaman455173/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://ikramuzzaman.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/ikramuzzaman455173">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img
+src="https://komarev.com/ghpvc/?username=ikramuzzaman455173&style=flat-square"
+alt="Profile views"
+/>
+
+<br/><br/>
+
+### 🚀 Building useful software that makes complex work simpler.
+
 </div>
